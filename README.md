@@ -1,1 +1,3 @@
-# Dashboard
+pandas
+streamlit
+streamlit_authenticator
