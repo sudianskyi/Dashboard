@@ -3,3 +3,5 @@ streamlit
 streamlit_authenticator
 time
 functools
+seaborn
+matplotlib
