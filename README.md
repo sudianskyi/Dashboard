@@ -1,6 +1,3 @@
 pandas
-streamlit
-streamlit_authenticator
 time
 functools
-matplotlib
